@@ -18,19 +18,6 @@ and hardware projects that connect software to the physical world.
 
 ---
 
-## Projects
-
-**materials-characterization-tools**
-Python notebooks for analyzing superconductor magnetization and structural data.
-Covers data parsing, volume fraction plots, Curie-Weiss fitting, and cell volume analysis from powder diffraction.
-Stack: Python, NumPy, SciPy, matplotlib, pandas
-
-**Air-hockey-and-Arduino**
-Two-player physical air hockey game with real-time hardware-software integration.
-Stack: Python, pygame, Arduino
-
----
-
 ## Skills
 
 **Languages:** Python, C/C++, MATLAB, JavaScript, LaTeX, SQL (learning)
