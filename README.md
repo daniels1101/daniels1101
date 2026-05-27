@@ -20,9 +20,9 @@ and hardware projects that connect software to the physical world.
 
 ## Skills
 
-**Languages:** Python, C/C++, MATLAB, JavaScript, LaTeX, SQL (learning)
+**Languages:** Python, C/C++, MATLAB, JavaScript, LaTeX, SQL
 
-**Libraries:** NumPy, SciPy, matplotlib, pandas
+**Libraries:** NumPy, SciPy, matplotlib, pandas, scikit-learn
 
 **Lab and characterization:** XRPD, Rietveld refinement (TOPAS), SEM, EDX, MPMS magnetometry, single-crystal diffraction, high-temperature furnace operation, oscilloscope, electronic circuit analysis
 
